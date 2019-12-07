@@ -8,3 +8,5 @@
 * wtform  validators
 * validation error 
 * flask_login ( login_user , login_required, logout_user)
+
+#Uses Migration in ORM database
