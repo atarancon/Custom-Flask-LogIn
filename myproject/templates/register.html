@@ -22,4 +22,8 @@
 
 {% endfor %}
 
+{% for error in form.password.errors %}
+      <li>{{ error }}</li>
+{% endfor %}
+
 {% endblock %}
