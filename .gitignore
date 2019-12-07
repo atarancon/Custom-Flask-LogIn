@@ -1,0 +1,9 @@
+##files and folders
+
+migrations/
+
+__pycache__/
+
+##Files######
+data.sqlite 
+
